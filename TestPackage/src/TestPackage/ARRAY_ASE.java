@@ -6,7 +6,7 @@ import java.util.Arrays;
 	
 	public static void main(String[] args) {
 		
-	    int a []= {40,10,90,50,70,80};
+	    int a []= {40,50,60,70,80,90};
 	    
 	    for(int i=0;i<=a.length-1;i++) {
 	    	
